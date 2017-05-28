@@ -3,3 +3,4 @@ git is free software distributed under the GPL
 git is very cool!
 git is very good!
 create a new branch is quick.
+git is fast.
